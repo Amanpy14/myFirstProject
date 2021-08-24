@@ -1,0 +1,1 @@
+psql+pg8000://postgres:Mango@008@localhost/postgres
